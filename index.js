@@ -13,7 +13,7 @@ app.get("/", (req, res)=>{
             {
                 "email": "katotodan@gmail.com",
                 "current_datetime": new Date().toISOString(),
-                "github_url": "<https://github.com/yourusername/your-repo>"
+                "github_url": "https://github.com/Katotodan/public-API"
             }
         )
         
